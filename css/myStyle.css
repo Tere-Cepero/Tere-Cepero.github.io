@@ -1,0 +1,16 @@
+#myName{
+	color: #20B2AA;
+	text-align: center;
+}
+
+#left-foot{
+	height: 5em;
+}
+
+span.dateT{
+	font-weight: bold;
+}
+
+ul.demo {
+    list-style-type: none;
+}
